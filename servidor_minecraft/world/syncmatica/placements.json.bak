@@ -1,0 +1,26 @@
+{
+  "placements": [
+    {
+      "id": "ab1fc412-1871-44a8-86ac-7dee1bfaf2f5",
+      "file_name": "C:\\Users\\blues\\AppData\\Roaming\\ModrinthApp\\profiles\\Light Craft _ FPS Boost Max\\schematics\\Farms And Builds\\Mega MobFarm.litematic",
+      "display_name": "Siêu Super Mega Farm",
+      "hash": "37d0c10b-39ef-3dff-b97f-a0a370cd2c31",
+      "origin": {
+        "position": [
+          770,
+          63,
+          1150
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "4950d1b2-5e80-48c1-b0dc-31cf45be680b",
+        "name": "MrGameBlaze"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 3955
+    }
+  ]
+}

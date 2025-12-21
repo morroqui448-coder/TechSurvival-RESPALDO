@@ -1,0 +1,15 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 244675,
+      "minecraft:total_world_time": 244675,
+      "minecraft:damage_taken": 10,
+      "minecraft:play_time": 244675,
+      "minecraft:time_since_death": 244675
+    },
+    "minecraft:picked_up": {
+      "minecraft:poppy": 32
+    }
+  },
+  "DataVersion": 4671
+}
